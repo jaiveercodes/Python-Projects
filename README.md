@@ -1,2 +1,15 @@
 # Diwali Sales Data Analysis
-Python Data Cleaning &amp; EDA Project
+This project focuses on analyzing Diwali sales data using Python.
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Key Tasks
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Sales Trend Analysis
+- Customer Segmentation
